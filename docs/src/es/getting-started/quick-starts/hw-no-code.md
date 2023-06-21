@@ -4,7 +4,7 @@ locale: es
 
 # Hola Mundo (Sin Código)
 
-En este tutorial rápido vamos a subir una imagen al permaweb sin tener que escribir código.
+En este tutorial rápido vamos a subir una imagen a la permaweb sin tener que escribir código.
 
 ## Requisitos
 
