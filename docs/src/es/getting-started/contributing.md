@@ -8,9 +8,9 @@ Cualquiera en la comunidad es bienvenido a contribuir al Libro de Recetas Permaw
 
 ## Que necesitas saber?
 
-- git y Github - publical contenido en github.com.
+- git y Github - publica contenido en github.com.
 - Markdown - Markdown es un lenguaje de marcado de texto que puede transformarse en HTML
-- Arweave y el Permaweb - Tener algún conocimiento sobre el Permaweb que debería compartirse
+- Arweave y el Permaweb - Tener algún conocimiento sobre la Permaweb que debería compartirse
 
 ## Pasos para contribuir
 
