@@ -4,7 +4,7 @@ locale: es
 
 # Hola Mundo (CLI)
 
-Esta guía le guiará a través de la forma más simple de obtener datos en el permaweb usando una interfaz de línea de comandos (CLI).
+Esta guía le guiará a través de la forma más simple de obtener datos en la permaweb usando una interfaz de línea de comandos (CLI).
 
 ## Requerimientos
 
