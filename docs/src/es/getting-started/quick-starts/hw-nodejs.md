@@ -4,7 +4,7 @@ locale: es
 
 # Hola Mundo (NodeJS)
 
-Este guía le mostrará la manera más sencilla de obtener datos en el permaweb usando `arweave-js` y `bundlr`.
+Este guía le mostrará la manera más sencilla de obtener datos en la permaweb usando `arweave-js` y `bundlr`.
 
 Con Arweave 2.6 solo permitiendo 1000 elementos por bloque, directamente subir al gateway (por ejemplo, usando `arweave-js`) probablemente será poco común.
 
